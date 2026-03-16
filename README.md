@@ -43,11 +43,15 @@ os
 
 📁 Project Structure
 
-AI-Virtual-Voice-Assistance/
+AI-Virtual-Voice-Assistance
+
 │
 ├── assistant.py        # Main program file
+
 ├── requirements.txt    # Python dependencies
+
 ├── README.md           # Project documentation
+
 └── assets/             # Optional images or resources
 
 📌 Future Improvements
