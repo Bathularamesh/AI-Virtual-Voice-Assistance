@@ -6,6 +6,7 @@ An AI-powered Virtual Voice Assistant built using Python that can understand voi
 🚀 Features
 
 🎤 Voice command recognition
+
 🔊 Text-to-speech response
 🌐 Search information on the internet
 📂 Open system applications
